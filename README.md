@@ -1,5 +1,5 @@
 # imagine_python
-This is our implementation of Project 2 in CSC 366: Language Theory & Design
+This is our implementation of Project 3 in CSC 366: Language Theory & Design
 ## Getting Started
 * Dowload Python: We recommend you run this project with Python 3.6.4, which can be dowloaded [here](https://www.python.org/downloads/release/python-364/).
 * Clone this project: The easiest way to have a copy of this project is to [clone](https://help.github.com/articles/cloning-a-repository/) this project, Another way is to ask us to email you the zip file.
